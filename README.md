@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Enduri Jahnavi</h1>
 <h3 align="center">AI/ML Enthusiast</h3>
 
-- 🔭 About me:  **I’m a BTech undergraduate pursuing Data Science and Artificial Intelligence, currently in my Junior year. My fascination and passion to learn and work for opportunities in the captivating realm of Machine Learning and Data Science comes from working on concepts of Natural Language Processing, Speech Processing, Image Processing, Data Analysis and many more. My creativity and problem‑solving personality brings the best out of me in my work and with my team. I’ve always been motivated and curious to grasp the knowledge and technical skills that the world has to offer**
+- 🔭 **About me:**
+
+**-I’m a BTech undergraduate pursuing Data Science and Artificial Intelligence, currently in my Junior year.**
+
+**-My fascination and passion to learn and work for opportunities in the captivating realm of Machine Learning and Data Science comes from working on concepts of Natural Language Processing, Speech Processing, Image Processing, Data Analysis and many more.**
+
+**-My creativity and problem‑solving personality brings the best out of me in my work and with my team. I’ve always been motivated and curious to grasp the knowledge and technical skills that the world has to offer**
 
 - 📫 How to reach me **jahnavienduri@gmail.com**
 

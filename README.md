@@ -16,3 +16,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endurijahnavi&show_icons=true&locale=en&layout=compact" alt="endurijahnavi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=endurijahnavi&show_icons=true&locale=en" alt="endurijahnavi" /></p>
+
+<hr>
+<h2 align="center">Github Trophies</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=endurijahnavi&theme=darkhub">
+</p>
+</br>  
+<hr>
